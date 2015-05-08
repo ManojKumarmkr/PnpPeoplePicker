@@ -1,0 +1,6 @@
+D:\Provider hosted client people picker\PnP-master\PnP-master\Components\Core.PeoplePicker\Core.PeoplePickerWeb\bin\Contoso.Core.PeoplePickerWeb.dll.config
+D:\Provider hosted client people picker\PnP-master\PnP-master\Components\Core.PeoplePicker\Core.PeoplePickerWeb\bin\Contoso.Core.PeoplePickerWeb.dll
+D:\Provider hosted client people picker\PnP-master\PnP-master\Components\Core.PeoplePicker\Core.PeoplePickerWeb\bin\Contoso.Core.PeoplePickerWeb.pdb
+D:\Provider hosted client people picker\PnP-master\PnP-master\Components\Core.PeoplePicker\Core.PeoplePickerWeb\obj\Release\Core.PeoplePickerWeb.csprojResolveAssemblyReference.cache
+D:\Provider hosted client people picker\PnP-master\PnP-master\Components\Core.PeoplePicker\Core.PeoplePickerWeb\obj\Release\Contoso.Core.PeoplePickerWeb.dll
+D:\Provider hosted client people picker\PnP-master\PnP-master\Components\Core.PeoplePicker\Core.PeoplePickerWeb\obj\Release\Contoso.Core.PeoplePickerWeb.pdb
